@@ -1,0 +1,29 @@
+.box-element{
+	box-shadow:hsl(0, 0%, 80%) 0 0 16px;
+	background-color: #fff;
+	border-radius: 4px;
+	padding: 10px;
+	margin-top: 15px;
+	width: 50%;
+
+}
+h2{
+	text-align: center;
+}
+#form{
+	text-align: center;
+}
+#form input{
+	width: 50%;
+}
+
+.todo-list{
+	margin-top: 50px;
+	margin-left: 20%;
+}
+.todo-item{
+	list-style: none;
+}
+.paragraph-styling{	
+		color: red;
+}
